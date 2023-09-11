@@ -1,0 +1,8 @@
+{
+    "name": "Template",
+    "short_name": "template",
+    "icons": [],
+    "theme_color": "#ffffff",
+    "background_color": "#ffffff",
+    "display": "standalone"
+}
